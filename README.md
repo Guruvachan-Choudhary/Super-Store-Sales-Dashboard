@@ -1,10 +1,7 @@
 # Super Store Sales Dashboard - Power BI  
 
 ## Overview  
-This repository contains a Power BI dashboard for analyzing Super Store Sales data. The dashboard provides insights into sales, profit, quantity, and other key business metrics using interactive visuals.
-
-## Dashboard Preview  
-![Super Store Sales Dashboard](./Super_Store_Sales_Image.png)  
+This repository contains a Power BI dashboard for analyzing Super Store Sales data. The dashboard provides insights into sales, profit, quantity, and other key business metrics using interactive visuals. 
 
 ## Features  
 - **Sales Analysis**: Total sales, profit, and quantity sold.
@@ -15,9 +12,9 @@ This repository contains a Power BI dashboard for analyzing Super Store Sales da
 - **Geo-Visualization**: Sales and profit distribution across the United States.
 
 ## 📂 Files in this Repository  
-- `Super Store Sales.pbix` - Power BI file containing the dashboard.
-- `Super Store Sales Image.png` - Screenshot of the dashboard.
-- `Dataset.csv` - Sample dataset used for the analysis.
+- Power BI file containing the dashboard.
+- Screenshot of the dashboard.
+- Sample dataset used for the analysis.
 
 ## 🛠 Tools & Technologies  
 - **Power BI** - For data visualization and dashboard creation.
